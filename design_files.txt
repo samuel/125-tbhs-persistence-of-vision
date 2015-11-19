@@ -1,0 +1,46 @@
+ Published on Mar 23, 2014
+
+Ben gets to work creating what he imagines a television would be in a steampunk world. 
+This mechanical display will rotate a panel of LEDs at a very fast rate to create an illusion of solid images. 
+After giving an overview of his ideas for the project, Ben gets to work designing PCBs, 
+which he'll stuff using both surface mount and through-hole soldering. He makes sure the LED PCBs function correctly 
+before beginning his designs for this mechanical wonder.
+
+< https://www.youtube.com/watch?v=1reDoTu6L5w&list=UUhturLXwYxwTOf_5krs0qvA >
+
+Design Files/
+├── CNC
+│   └── Milling.ai
+├── design_files.txt
+├── Driver Boards
+│   ├── led_driver2.dxf
+│   ├── led_driver.b##
+│   ├── led_driver.brd
+│   ├── led_driver.dxf
+│   ├── led_driver.s##
+│   ├── led_driver.sch
+│   └── LED_POV.zip
+├── End Clasp.123dx
+├── Frame LED.ai
+├── gear 1.dxf
+├── Gear Test 1.gear
+├── Motor
+│   ├── Gear End Drawing.ai
+│   └── Gear End.psd
+├── parts
+│   ├── HOA6990-T51.pdf
+│   └── tlc59282.pdf
+├── programs
+│   ├── dmd_IO_driver_128x32.spin
+│   ├── test_LED_2.spin
+│   └── test_LED.spin
+├── ref
+│   ├── end.psd
+│   └── IMG_20140305_105127.jpg
+├── stl
+│   ├── End clasp 1.stl
+│   ├── End clasp 2.stl
+│   └── End clasp 3.stl
+└── Test Circuit Image.ai
+
+7 directories, 26 files
